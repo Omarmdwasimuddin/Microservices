@@ -63,6 +63,16 @@ npm run start:dev
 
 ## TCP Microservice Client Setup
 
+#### Package Installation
+```bash
+npm i --save @nestjs/microservices
+```
+> NestJS version 11.2.7 hole-->
+```bash
+npm i --save @nestjs/microservices@^11
+```
+---
+
 #### `app.module.ts`
 ```bash
 import { Module } from '@nestjs/common';
