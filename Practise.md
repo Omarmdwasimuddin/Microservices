@@ -9,3 +9,10 @@ npm i --save @nestjs/microservices
 npm i --save @nestjs/microservices@^11
 ```
 ---
+
+
+#### `main.ts`
+```bash
+
+```
+---
