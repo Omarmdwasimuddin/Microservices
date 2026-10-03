@@ -53,3 +53,5 @@ export class AppController {
 ---
 
 
+#### project run korle error na ashle sob thik ache.
+<img width="851" height="201" alt="image" src="https://github.com/user-attachments/assets/9573daf6-04d3-4bf3-99d6-8ec74d2e7799" />
